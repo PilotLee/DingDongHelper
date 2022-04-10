@@ -1,0 +1,9 @@
+Package: com.corleone.ddmaicaihelper
+Name: DDMaicaiHelper
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Corleone
+Author: Corleone
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
