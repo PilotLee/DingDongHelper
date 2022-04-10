@@ -15,6 +15,6 @@
 2. copy Tweak.x内容至[monkeydev](https://github.com/AloneMonkey/MonkeyDev)进行非越狱集成
 
 
-### 如何使用
+## 如何使用
 1. 提前进入下单页面，选定地址&派送时间&支付方式.
 2. 开抢前10秒左右,调整手机音量至最大，即可触发自动下单操作.
