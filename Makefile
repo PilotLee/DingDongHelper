@@ -14,3 +14,4 @@ DDMaicaiHelper_FILES = Tweak.x
 DDMaicaiHelper_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
+DDMaicaiHelper_FRAMEWORKS = UIKit
